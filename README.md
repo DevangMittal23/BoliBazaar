@@ -1,5 +1,7 @@
 # BoliBazaar - Voice-Based Auction Website
 
+# Its Updated repo is : https://github.com/sanatanisher01/Boli
+
 A modern auction platform with voice-powered bidding capabilities built with Django.
 
 ## 🎥 Demo Video
